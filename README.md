@@ -63,7 +63,7 @@ Objetivo principal: Aplicar o teste Z para avaliar evidencia estatistica e tradu
 
 ### Chapter 1 - Data Understanding | Entendimento dos Dados
 
-![Data Understanding | Entendimento dos Dados](assets/readme/project_overview.svg)
+![Data Understanding | Entendimento dos Dados](assets/grafico_01.png)
 
 **EN**
 
